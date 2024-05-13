@@ -25,11 +25,6 @@ public class EventManagementSystem extends JFrame implements ActionListener{
         next.setBounds(675,440,150,40);
         add(next);
 
-//        heading = new JLabel("Event Management System");
-//        heading.setForeground(Color.DARK_GRAY);
-//        heading.setBounds(180,10,1300,100);
-//        heading.setFont(new Font("Comic Sans MS",Font.BOLD ,40));
-//        add(heading);
     }
 
     public void actionPerformed(ActionEvent ae){

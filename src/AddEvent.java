@@ -15,7 +15,7 @@ public class AddEvent extends JPanel implements ActionListener {
     JTextField event_name_field, start_date_field, end_date_field, contact_no_field, price_field, no_of_guests_field;
     JTextArea description_field;
     JButton start_date_calender, end_date_calender, add;
-
+    
     public AddEvent() {
         setBounds(100, 100, 890, 550);
         setLayout(null);

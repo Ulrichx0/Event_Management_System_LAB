@@ -4,7 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2556a261-e94d-4a4f-9604-7f097c89a82f" name="Changes" comment="" />
+    <list default="true" id="2556a261-e94d-4a4f-9604-7f097c89a82f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Event_Management_System.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Event_Management_System.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/event_management.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/EditProfile.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/EditProfile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/Login_Page.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/icons/Login_Page.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/AddEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/AdminUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/AdminUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Capacity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Capacity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Capacity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Capacity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/CurrentEvents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/CurrentEvents$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/CurrentEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/CurrentEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DashBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DashBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatabaseConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatabaseConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DatePicker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DbUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DbUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DeleteUsers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DeleteUsers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/DeleteUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/DeleteUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/EditProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/EditProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/EventDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/EventDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/EventDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/EventDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/EventDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/EventDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/EventManagementSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/EventManagementSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Forgot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Forgot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Loading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Loading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/LoggedInUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/LoggedInUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/LoginUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/LoginUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/OldEvents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/OldEvents$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/OldEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/OldEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/RegistrationDetails$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/RegistrationDetails$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/RegistrationDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/RegistrationDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/SignUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/Statistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/UpComingEvents$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/UpComingEvents$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/UpComingEvents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/UpComingEvents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/ViewProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/ViewProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/ViewUsers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/ViewUsers$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Event_Management_System/ViewUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Event_Management_System/ViewUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AddEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AddEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Capacity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Capacity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DatabaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EventManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EventManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Home.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +79,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -25,20 +90,46 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="22BicRTHFOPCmJQfeMXdH9HWE09" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/jar_files/postgresql-42.3.0.jar" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DatabaseConnection.executor": "Run",
+    "Application.EventManagementSystem.executor": "Run",
+    "Application.Home.executor": "Run",
+    "Application.TextLabelMirror.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ulric/IdeaProjects/Event_Management_System_LAB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
   <component name="RunManager" selected="Application.EventManagementSystem">
     <configuration name="EventManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EventManagementSystem" />
@@ -78,12 +169,19 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.EventManagementSystem" />
+        <item itemvalue="Application.TextLabelMirror" />
         <item itemvalue="Application.SignUp" />
         <item itemvalue="Application.ProgressBarExample" />
-        <item itemvalue="Application.TextLabelMirror" />
         <item itemvalue="Application.PasswordChecker" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,7 +191,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639317462396</updated>
+      <workItem from="1714687571908" duration="356000" />
+      <workItem from="1714687934261" duration="55000" />
+      <workItem from="1714929931536" duration="5000" />
+      <workItem from="1714930092200" duration="3659000" />
+      <workItem from="1714934605170" duration="2196000" />
+      <workItem from="1714936848143" duration="902000" />
+      <workItem from="1714944012870" duration="1631000" />
+      <workItem from="1715017254019" duration="829000" />
+      <workItem from="1715040176719" duration="21000" />
+      <workItem from="1715040239480" duration="75000" />
+      <workItem from="1715042819849" duration="525000" />
+      <workItem from="1715043924882" duration="307000" />
+      <workItem from="1715044350508" duration="51000" />
+      <workItem from="1715044581124" duration="367000" />
+      <workItem from="1715073323004" duration="3111000" />
+      <workItem from="1715078635689" duration="16000" />
+      <workItem from="1715078741512" duration="646000" />
+      <workItem from="1715081987119" duration="303000" />
+      <workItem from="1715621365732" duration="1882000" />
+      <workItem from="1715627494016" duration="1239000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

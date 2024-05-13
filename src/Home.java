@@ -38,37 +38,29 @@ public class Home extends JPanel {
         panel_1.setBackground( new Color(182, 227, 249));
         panel_1.setLayout(null);
 
-//        JButton btnNewButton_1 = new JButton("New button");
-//        btnNewButton_1.setBounds(206, 25, 85, 21);
-//        panel_1.add(btnNewButton_1);
 
-        mssg_of_date = new JLabel("Message Of the Day");
+        mssg_of_date = new JLabel("Users Feedback");
         mssg_of_date.setBounds(40, 17, 345, 20);
         mssg_of_date.setFont(new Font("Comic Sans MS",Font.BOLD ,15));
         panel_1.add(mssg_of_date);
 
-        ons = new JLabel("Om! Nama Shivaya");
-        ons.setBounds(25, 66, 200, 40);
-        ons.setFont(new Font("Comic Sans MS",Font.BOLD ,22));
-        ons.setForeground(new Color(245, 136, 64));
-        panel.add(ons);
 
-        quote = new JLabel("An event shouldn't be just");
+        quote = new JLabel("The event was well-organized");
         quote.setBounds(38, 115, 450, 25);
         quote.setFont(new Font("Comic Sans MS",Font.BOLD ,16));
         panel.add(quote);
 
-        quote1 = new JLabel("an experiential thing, it");
+        quote1 = new JLabel("exceeded my expectations.");
         quote1.setBounds(38, 140, 450, 25);
         quote1.setFont(new Font("Comic Sans MS",Font.BOLD ,16));
         panel.add(quote1);
 
-        quote2 = new JLabel("should be an emotional thing!");
+        quote2 = new JLabel("Looking forward to future events!");
         quote2.setBounds(38, 170, 450, 25);
         quote2.setFont(new Font("Comic Sans MS",Font.BOLD ,16));
         panel.add(quote2);
 
-        author = new JLabel("-Amit Kalantri, Wealth of Words");
+        author = new JLabel("-Anick KEITA");
         author.setBounds(20, 230, 450, 25);
         author.setFont(new Font("Comic Sans MS",Font.BOLD ,13));
         panel.add(author);

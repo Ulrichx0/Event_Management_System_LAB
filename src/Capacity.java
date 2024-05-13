@@ -73,11 +73,6 @@ class Capacity extends JPanel implements ActionListener {
         home.setBounds(680, 75, 138, 33);
         add(home);
 
-//        capacity = new JLabel("Capacity");
-//        capacity.setForeground(new Color(107, 142, 35));
-//        capacity.setFont(new Font("Comic Sans MS", Font.BOLD | Font.ITALIC, 30));
-//        capacity.setBounds(350, 15, 400, 47);
-//        add(capacity);
 
         search_field = new JTextField();
         search_field.setBorder(new LineBorder(Color.BLACK, 2, true));
